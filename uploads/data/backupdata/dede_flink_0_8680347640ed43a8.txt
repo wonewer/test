@@ -1,3 +1,0 @@
-INSERT INTO `dede_flink` VALUES('17','1','http://www.zmzmb.com/','织梦模板','','','','1501899151','1','2');
-INSERT INTO `dede_flink` VALUES('18','1','http://www.zmzmb.com/','dedecms模板','','','','1501899162','1','2');
-INSERT INTO `dede_flink` VALUES('19','1','http://www.zmzmb.com/','追梦者模板网','','','','1503447695','1','1');

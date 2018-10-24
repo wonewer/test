@@ -1,1 +1,0 @@
-INSERT INTO `dede_admin` VALUES('1','10','admin','f297a57a5a743894a0e4','追梦者模板网','www.zmzmb.com','www.zmzmb.com','','1503447521','127.0.0.1');
