@@ -1,0 +1,57 @@
+﻿
+<!--头部开始-->
+
+<header id="header">
+  <div class="container">
+    <div id="logo"><a href="/" title="{dede:global.cfg_webname/}"><img src="/style/images/logo.png" alt="{dede:global.cfg_webname/}" /></a></div>
+    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
+    <nav id="navigate">
+      <ul>
+        <li class="first_menu"><a href='/' {dede:field name=typeid runphp="yes"}(@me=="")? @me=" class='current'":@me="";{/dede:field}>首页</a></li>
+        {dede:channelartlist row=10 typeid='top'}
+        <li><a href='{dede:field name='typeurl'/}' {dede:field name='currentstyle'/}>{dede:field name='typename'/}</a>
+          <ul>
+            {dede:channel type='son' noself='yes'}
+            <li><a href='[field:typelink/]' title="[field:typename/]">[field:typename/]</a></li>
+            {/dede:channel}
+          </ul>
+        </li>
+        {/dede:channelartlist}
+      </ul>
+    </nav>
+    <div class="clear"></div>
+    <div class="row mobile_nav">
+      <nav class="collapse navbar-collapse">
+        <ul>
+          <li><a href='/'>首页</a></li>
+          {dede:channelartlist row=10 typeid='top'}
+          <li><span><a href='{dede:field name='typeurl'/}'>{dede:field name='typename'/}</a></span><a href="javascript:;"><i class="touch-arrow-down"></i></a>
+            <ul>
+              {dede:channel type='son' noself='yes'}
+              <li><a href='[field:typelink/]' title="[field:typename/]">[field:typename/]</a></li>
+              {/dede:channel}
+            </ul>
+          </li>
+          {/dede:channelartlist}
+        </ul>
+      </nav>
+    </div>
+  </div>
+</header>
+<div class="clear"></div>
+<div id="flash">
+  <div id="slideBox" class="slideBox">
+    <div class="bd">
+      <ul>
+        {dede:arclist typeid='14'  row='5'  addfields='lj' channelid='17' }
+        <li><a href="[field:lj/]" title="[field:title/]" target="_blank"><img src="[field:litpic/]" /></a></li>
+        {/dede:arclist}
+      </ul>
+    </div>
+    <div class="hd">
+      <ul>
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="clear"></div>
