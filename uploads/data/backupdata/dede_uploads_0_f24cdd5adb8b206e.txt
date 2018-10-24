@@ -1,0 +1,15 @@
+INSERT INTO `dede_uploads` VALUES('1','0','1-1F62H121530-L.jpg','/uploads/allimg/170627/1-1F62H121530-L.jpg','1','0','0','0','28084','1498569713','1');
+INSERT INTO `dede_uploads` VALUES('2','0','1-1F62H123220-L.jpg','/uploads/allimg/170627/1-1F62H123220-L.jpg','1','0','0','0','16552','1498569802','1');
+INSERT INTO `dede_uploads` VALUES('3','3','内容优化之有“心”创作','/uploads/allimg/170627/1-1F62H136140-L.jpg','1','0','0','0','24224','1498570574','1');
+INSERT INTO `dede_uploads` VALUES('4','4','带着seo思维选域名 建站就成功了一半','/uploads/allimg/170627/1-1F62H136440-L.jpg','1','0','0','0','23839','1498570604','1');
+INSERT INTO `dede_uploads` VALUES('5','5','如何让自己的网站更有质量？AB模板王有妙招','/uploads/allimg/170627/1-1F62H13HI09.jpg','1','660','488','0','27208','1498570647','1');
+INSERT INTO `dede_uploads` VALUES('6','6','宏观的教育','/uploads/allimg/170627/1-1F62H23911506.jpg','1','600','450','0','62071','1498574351','1');
+INSERT INTO `dede_uploads` VALUES('7','7','教育的本质','/uploads/allimg/170627/1-1F62H23931c8.jpg','1','600','450','0','68611','1498574371','1');
+INSERT INTO `dede_uploads` VALUES('8','8','某种文化专长的氏族部落','/uploads/allimg/170628/1-1F62Q05933300.jpg','1','600','450','0','210369','1498618773','1');
+INSERT INTO `dede_uploads` VALUES('9','9','远古社会教育的产生','/uploads/allimg/170628/1-1F62Q0595bD.jpg','1','600','450','0','277240','1498618799','1');
+INSERT INTO `dede_uploads` VALUES('10','10','教育的定义','/uploads/allimg/170628/1-1F62Q10022a7.jpg','1','600','450','0','36451','1498618822','1');
+INSERT INTO `dede_uploads` VALUES('11','11','教育功能','/uploads/allimg/170628/1-1F62Q10041R4.jpg','1','600','450','0','56314','1498618841','1');
+INSERT INTO `dede_uploads` VALUES('12','12','文化教育的本质','/uploads/allimg/170628/1-1F62Q10059337.jpg','1','600','450','0','56763','1498618859','1');
+INSERT INTO `dede_uploads` VALUES('13','13','现代汉语中“教育”','/uploads/allimg/170628/1-1F62Q10121929.jpg','1','600','450','0','51984','1498618881','1');
+INSERT INTO `dede_uploads` VALUES('16','16','幻灯片2','/uploads/allimg/170628/1-1F62R34S10-L.jpg','1','0','0','0','455294','1498664911','1');
+INSERT INTO `dede_uploads` VALUES('17','17','幻灯片1','/uploads/allimg/170628/1-1F62R34T80-L.jpg','1','0','0','0','519039','1498664928','1');

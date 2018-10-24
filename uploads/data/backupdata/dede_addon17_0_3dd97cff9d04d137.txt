@@ -1,0 +1,2 @@
+INSERT INTO `dede_addon17` VALUES('16','14','','','0.0.0.0','http://www.xiuzhanwang.com');
+INSERT INTO `dede_addon17` VALUES('17','14','','','0.0.0.0','http://www.xiuzhanwang.com');
